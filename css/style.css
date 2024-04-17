@@ -64,15 +64,15 @@ section.normal {
 
 section.fundo > p {
     display: inline-block;
-    background-color: rgba(0, 0, 0, 0.301);
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.452);
+    background-color: rgba(0, 0, 0, 0.473);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.527);
 }
 
 section#imagem1 {
     min-height: 50vh;
     color: white;
     background-image: url(../imagens/background001.jpg);
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.486);
